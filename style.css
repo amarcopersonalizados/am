@@ -1,0 +1,22 @@
+body {
+    background-color: #fff; /* Fundo branco */
+    color: #000; /* Cor do texto preta */
+    font-family: Arial, sans-serif;
+}
+
+h1, h2, h3, p {
+    color: #8c52ff; /* Cor principal dos títulos */
+}
+
+a {
+    color: #ffc2e3; /* Cor dos links */
+}
+
+button, .cta-button {
+    background-color: #cfbfff; /* Botão com cor da paleta */
+    color: #000;
+}
+
+.footer, .header {
+    background-color: #e1f3ff; /* Cor da seção de rodapé ou cabeçalho */
+}
