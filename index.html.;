@@ -1,0 +1,19 @@
+body {
+    background-color: #ffc2e3; /* Fundo rosa bebê */
+    color: #000000; /* Fonte preta */
+    font-family: Arial, sans-serif;
+}
+
+h1, h2, p {
+    color: #8c52ff; /* Um dos tons de roxo da paleta */
+}
+
+a {
+    color: #cfbfff; /* Cor de links */
+}
+
+footer {
+    background-color: #e1f3ff; /* Fundo claro para o rodapé */
+    padding: 10px;
+    text-align: center;
+}
