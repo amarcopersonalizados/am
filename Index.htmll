@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>A'Marco Personalizados</title>
+    <link rel="stylesheet" href="style.css"> <!-- Link para o arquivo CSS -->
+</head<link rel="stylesheet" href="style.css">>
+<body>
+    <header>
+        <h1>Bem-vindo ao A'Marco Personalizados!</h1>
+        <nav>
+            <ul>
+                <li><a href="#quem-somos">Quem Somos</a></li>
+                <li><a href="#produtos">Produtos</a></li>
+                <li><a href="#contato">Contato</a></li>
+                <li><a href="#feedback">Feedback</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="quem-somos">
+        <h2>Quem Somos</h2>
+        <p>Eu sou Thiélly Oliveira, 33 anos, casada e mãe. Graduada em Administração de Empresas com foco em Marketing. Depois de vários caminhos, encontrei minha paixão na personalização de brindes e estou há 3 anos neste ramo. A'Marco Personalizados é uma homenagem ao meu pai, Antônio Marcos, e uma abreviação de Agência de Marketing!</p>
+    </section>
+
+    <section id="produtos">
+        <h2>Nossos Produtos</h2>
+        <p>Oferecemos uma variedade de brindes personalizados: canecas, camisetas, azulejos, squeezes, e chaveiros. Cada item é feito com carinho e qualidade.</p>
+    </section>
+
+    <section id="contato">
+        <h2>Contato</h2>
+        <p>Entre em contato conosco através dos seguintes canais:</p>
+        <ul>
+            <li>WhatsApp: <a href="https://wa.me/5511920062449" target="_blank">1192006-2449</a></li>
+            <li>Instagram: <a href="https://instagram.com/amarco.resinas" target="_blank">@amarco.resinas</a></li>
+            <li>Email: <a href="mailto:empreender.ellyn@gmail.com">empreender.ellyn@gmail.com</a></li>
+        </ul>
+    </section>
+
+    <section id="feedback">
+        <h2>Feedback dos Clientes</h2>
+        <p>Nossos clientes amam nossos produtos! Veja o que estão dizendo:</p>
+        <!-- Aqui você pode adicionar imagens fictícias de clientes -->
+    </section>
+
+    <footer>
+        <p>&copy; 2024 A'Marco Personalizados. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
